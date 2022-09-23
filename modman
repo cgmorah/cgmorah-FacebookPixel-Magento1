@@ -1,0 +1,5 @@
+app/code/community/GiovanniMora/FacebookPixelImprovements/Block/Facebookpixel/Code.php app/code/community/GiovanniMora/FacebookPixelImprovements/Block/Facebookpixel/Code.php
+app/code/community/GiovanniMora/FacebookPixelImprovements/etc/config.xml app/code/community/GiovanniMora/FacebookPixelImprovements/etc/config.xml
+app/code/community/GiovanniMora/FacebookPixelImprovements/Model/Facebookpixel/Observer.php app/code/community/GiovanniMora/FacebookPixelImprovements/Model/Facebookpixel/Observer.php
+app/etc/modules/GiovanniMora_FacebookPixelImprovements.xml app/etc/modules/GiovanniMora_FacebookPixelImprovements.xml
+README.md README.md
