@@ -1,4 +1,4 @@
-# Magento1-FacebookPixelImprovements
+# FacebookPixelImprovements
 Module to add some functionality to the Facebook Pixel Module
 
 
